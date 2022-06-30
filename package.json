@@ -4,6 +4,7 @@
   "description": "A file sharing app generating the link to download using protected password",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "dev": "nodemon app.js",
     "prod": "node app.js"
   },
